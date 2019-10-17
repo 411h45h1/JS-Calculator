@@ -1,4 +1,4 @@
 # JS-Calculator
 A simple JavaScript calculator
 
-![JavaScript Calculator](/js calculator.gif)
+<img src="/gif/js calculator.gif" height="42" width="42">

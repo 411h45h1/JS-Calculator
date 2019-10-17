@@ -1,4 +1,6 @@
 # JS-Calculator
 A simple JavaScript calculator
 
-<img src="/gif/js calculator.gif" height="42" width="42">
+<img src="/gif/js calculator.gif" height="390" width="300">
+
+<p>*screen recorder watermark in bottom right corner</p>
